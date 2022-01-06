@@ -1,3 +1,7 @@
+% A code to first find information on some base text including letter and bigram-letter frequencies from a base text, and use it to decode some random cipher.
+% I have used the ebooks of 'Pride and Prejeudice' and 'The Count of Monte Cristo' from Projet Gutenberg
+
+
 import numpy as np
 import string
 from itertools import islice
